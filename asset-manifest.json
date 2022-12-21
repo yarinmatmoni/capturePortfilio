@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/capturePortfilio/static/js/main.12d2dc3c.chunk.js",
-    "main.js.map": "/capturePortfilio/static/js/main.12d2dc3c.chunk.js.map",
+    "main.js": "/capturePortfilio/static/js/main.e4e7fab3.chunk.js",
+    "main.js.map": "/capturePortfilio/static/js/main.e4e7fab3.chunk.js.map",
     "runtime-main.js": "/capturePortfilio/static/js/runtime-main.55e9f3db.js",
     "runtime-main.js.map": "/capturePortfilio/static/js/runtime-main.55e9f3db.js.map",
     "static/js/2.a0a73cb0.chunk.js": "/capturePortfilio/static/js/2.a0a73cb0.chunk.js",
@@ -26,6 +26,6 @@
   "entrypoints": [
     "static/js/runtime-main.55e9f3db.js",
     "static/js/2.a0a73cb0.chunk.js",
-    "static/js/main.12d2dc3c.chunk.js"
+    "static/js/main.e4e7fab3.chunk.js"
   ]
 }
