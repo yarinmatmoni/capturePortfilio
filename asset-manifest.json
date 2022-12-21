@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/capturePortfilio/static/js/main.f0981f8d.chunk.js",
-    "main.js.map": "/capturePortfilio/static/js/main.f0981f8d.chunk.js.map",
+    "main.js": "/capturePortfilio/static/js/main.f3de2a14.chunk.js",
+    "main.js.map": "/capturePortfilio/static/js/main.f3de2a14.chunk.js.map",
     "runtime-main.js": "/capturePortfilio/static/js/runtime-main.55e9f3db.js",
     "runtime-main.js.map": "/capturePortfilio/static/js/runtime-main.55e9f3db.js.map",
-    "static/js/2.a0a73cb0.chunk.js": "/capturePortfilio/static/js/2.a0a73cb0.chunk.js",
-    "static/js/2.a0a73cb0.chunk.js.map": "/capturePortfilio/static/js/2.a0a73cb0.chunk.js.map",
+    "static/js/2.795563fb.chunk.js": "/capturePortfilio/static/js/2.795563fb.chunk.js",
+    "static/js/2.795563fb.chunk.js.map": "/capturePortfilio/static/js/2.795563fb.chunk.js.map",
     "static/js/3.7ac6302b.chunk.js": "/capturePortfilio/static/js/3.7ac6302b.chunk.js",
     "static/js/3.7ac6302b.chunk.js.map": "/capturePortfilio/static/js/3.7ac6302b.chunk.js.map",
     "index.html": "/capturePortfilio/index.html",
-    "static/js/2.a0a73cb0.chunk.js.LICENSE.txt": "/capturePortfilio/static/js/2.a0a73cb0.chunk.js.LICENSE.txt",
+    "static/js/2.795563fb.chunk.js.LICENSE.txt": "/capturePortfilio/static/js/2.795563fb.chunk.js.LICENSE.txt",
     "static/media/athlete-small.9c7a85d4.png": "/capturePortfilio/static/media/athlete-small.9c7a85d4.png",
     "static/media/athlete2.b216a5ad.png": "/capturePortfilio/static/media/athlete2.b216a5ad.png",
     "static/media/clock.4b7cde7e.svg": "/capturePortfilio/static/media/clock.4b7cde7e.svg",
@@ -25,7 +25,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.55e9f3db.js",
-    "static/js/2.a0a73cb0.chunk.js",
-    "static/js/main.f0981f8d.chunk.js"
+    "static/js/2.795563fb.chunk.js",
+    "static/js/main.f3de2a14.chunk.js"
   ]
 }
